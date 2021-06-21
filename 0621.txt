@@ -1,0 +1,13 @@
+git - github 연동
+github 저장소 만들기( readme.md포함)
+git 실행
+git init
+git clone 저장소 경로
+readme 파일 변경
+계정 로그인
+git config --global user.name JungHyeMin
+git config --global user.email jhm0614@naver.com
+
+git add .
+git commit -m "메세지"
+git push
